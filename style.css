@@ -382,7 +382,7 @@ background-color:black;
 
 /* media query */
 
-@media screen and (max-width:480px){
+@media screen and (max-width:600px){
   .hero{
     /* width:398px; */
   /* background-color:red; */

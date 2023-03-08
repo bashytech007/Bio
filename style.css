@@ -7,7 +7,7 @@
 
 body{
 font-family: 'Halant', serif;
-
+overflow-x:hidden;
 font-family: 'Manrope', sans-serif;
 
 }
@@ -383,6 +383,9 @@ background-color:black;
 /* media query */
 
 @media screen and (max-width:600px){
+  body{
+    overflow-x:hidden;
+  }
   .hero{
     /* width:398px; */
   /* background-color:red; */
